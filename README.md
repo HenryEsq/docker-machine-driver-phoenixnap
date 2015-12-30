@@ -1,6 +1,6 @@
 ![PhoenixNAP Logo](https://phoenixnap.com/wp-content/themes/phoenixnap-v2/img/v2/logo.svg)
 # docker-machine-driver-phoenixnap
-A PhoenixNAP Control Plane integration for Docker Machine.
+A PhoenixNAP Control Panel integration for Docker Machine.
 
 The driver code is implemented and tested with version 0.5.2 of Docker Machine.  The current Docker Machine driver:
   - Depends on the SDK
